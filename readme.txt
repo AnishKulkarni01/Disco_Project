@@ -18,5 +18,4 @@ For Menu 2, output is generated in a separate CSV file called output.csv
 
 Press Control+C for exiting the current running of the program.
 
-
 (disco2_vis.c USES THE VISUALISER,HOWEVER DOESN'T COMPILE ON WINDOWS,HENCE INCLUDED SEPERATELY.)
